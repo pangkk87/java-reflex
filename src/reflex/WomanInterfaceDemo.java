@@ -2,7 +2,6 @@ package reflex;
 
 import reflex.pojo.Woman;
 
-import java.io.Serializable;
 import java.lang.reflect.Array;
 
 public class WomanInterfaceDemo{
